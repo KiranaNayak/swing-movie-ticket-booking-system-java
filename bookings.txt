@@ -1,0 +1,8 @@
+admin,Leo,1:00 PM,INOX,B2,B3
+admin,Avatar,4:00 PM,Ashirvad Theatre,B2,B3,B4
+admin,Jawan,10:00 AM,INOX,C3,C1,C2
+admin,Jawan,10:00 AM,Cine Galaxy,C4,B4
+user,Avatar,4:00 PM,Ashirvad Theatre,A1,A2,A3,A4,B5,A5,B1
+user,Pathaan,10:00 AM,INOX,B2,B3
+Kirana,KGF,4:00 PM,Bharath Cinemas,C3,C4,C2
+Kirana,Avatar,1:00 PM,Ashirvad Theatre,C3,C4,C5,C1,C2
